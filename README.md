@@ -1,7 +1,7 @@
-# J2Store-payment-integration-novalnet
-<a href="https://www.novalnet.com/modul/j2store">J2Store</a> J2Store is the most-popular Joomla shopping cart and eCommerce extension. Create an online store and start selling in less than 10 minutes. Sell anything, anywhere.
+# J2Store Payment Integration by Novalnet
+<a href="https://www.novalnet.com/modul/j2store">J2Store</a> is the most-popular eCommerce extension for Joomla. Create an online store and start selling in less than 10 minutes. Sell anything, anywhere. Enhance your online business from checkout till collection through J2Store payment module by Novalnet. 
 
-## Advantages
+## Advantages of J2Store payment module
    * Easy configuration for all payment methods
    * One platform for all relevant payment types and related services
    * Complete automation of all payment processes
@@ -15,17 +15,17 @@
    * Clear real-time overview and monitoring of payment status
    * Automated bookkeeping report in XML, SOAP, CSV, MT940
    
-   ## Key features
+ ## Key features of J2Store payment module
  - Seamless and fast integration of the payment module
  - Secure SSL-encoded gateways
  - Custom CSS configuration for Credit Card iframe
- - Credit Card with 3D Secure
+ - Credit Card with 3D-Secure
  - On-hold transaction configuration in the shop admin panel
  - Responsive templates
 
 ## Integrated Payment Methods
 -	Direct Debit SEPA
--	Credit Card (3DSecure and non 3DSecure)
+-	Credit Card (3D-Secure and non 3D-Secure)
 -	Invoice
 -	Prepayment
 -	Instant Bank Transfer
@@ -33,6 +33,9 @@
 -	iDEAL
 -	eps
 -	giropay
+ 
+## Demo Shop
+To try with our <a href="https://j2store.novalnet.de/index.php/en/">store demo</a>, drop a mail to sales@novalnet.de.
 
 ## License
 See our License Agreement at: https://www.novalnet.com/payment-plugins/free/license
