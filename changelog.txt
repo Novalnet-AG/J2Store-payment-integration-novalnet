@@ -1,0 +1,10 @@
+*** Changelog ***
+
+= 2.0.0 - 2021.09.04 =
+* Major version release: Entire restructure & optimization of the older version with usability, additional features, and customizations.
+
+= 1.0.0 - 2016.11.30 =
+*          - New release
+
+
+
