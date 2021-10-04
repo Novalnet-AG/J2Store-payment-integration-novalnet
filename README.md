@@ -18,24 +18,31 @@
  ## Key features of J2Store payment module
  - Seamless and fast integration of the payment module
  - Secure SSL-encoded gateways
- - Custom CSS configuration for Credit Card iframe
- - Credit Card with 3D-Secure
+ - Custom CSS configuration for Credit/Debit iframe
+ - Credit/Debit with 3D-Secure
  - On-hold transaction configuration in the shop admin panel
+ - One-click shopping supported for Credit/Debit Cards, Direct Debit SEPA, Direct Debit SEPA with payment guarantee & PayPal
  - Responsive templates
 
 ## Integrated Payment Methods
--	Direct Debit SEPA
--	Credit Card (3D-Secure and non 3D-Secure)
--	Invoice
--	Prepayment
--	Instant Bank Transfer
--	PayPal
--	iDEAL
--	eps
--	giropay
- 
-## Demo Shop
-To try with our <a href="https://j2store.novalnet.de/index.php/en/">store demo</a>, drop a mail to sales@novalnet.de.
+
+- Direct Debit SEPA
+- Credit/Debit Cards
+- Invoice
+- Prepayment
+- Invoice with payment guarantee
+- Direct Debit SEPA with payment guarantee
+- iDEAL
+- Sofort
+- giropay
+- Barzahlen/viacash
+- Przelewy24
+- eps
+- PayPal
+- PostFinance Card
+- PostFinance E-Finance
+- Bancontact
+- Multibanco
 
 ## License
 See our License Agreement at: https://www.novalnet.com/payment-plugins/free/license
